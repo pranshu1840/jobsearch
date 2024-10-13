@@ -1,17 +1,17 @@
 # Job Search Application
 
-A comprehensive job portal that connects recruiters with job seekers, allowing recruiters to post jobs and manage applications effectively.
+A comprehensive job portal that connects recruiters with job seekers, allowing recruiters to create and manage job listings while enabling job seekers to search for and apply to job openings effectively.
 
 ## Features
 
 - **Recruiter Functionality**
-  - Post job listings
+  - Create job listings
+  - Edit job postings
   - View and manage applications
   - Download applicant resumes
-  - Edit or delete job postings
 
 - **Job Seeker Functionality**
-  - Create and manage profiles
+  - Search for new job opportunities
   - Apply for jobs using their profiles
   - Track application status
 
