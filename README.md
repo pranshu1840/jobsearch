@@ -29,5 +29,5 @@ A comprehensive job portal that connects recruiters with job seekers, allowing r
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/jobsearch.git
+   git clone https://github.com/pranshu1840/jobsearch.git
    cd jobsearch
